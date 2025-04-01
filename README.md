@@ -8,3 +8,12 @@ Imagine que você é proprietário de uma sorveteria chamada Gelato Mágico, loc
 
 Para solucionar esse problema, você decide usar Machine Learning para prever quantos sorvetes serão vendidos com base na temperatura. Com esse modelo, será possível antecipar a demanda e planejar a produção de maneira eficiente.
 
+Solução
+
+Foi criado o Automated ML de nome salmon_rabbit_h389ht3ndf conforme a figura
+
+![alt text](image.png)
+
+Este job foi utilizado para progressão regressiva das informações de vendas e temperatura do dia na tabela vendas_sorvetes_ml.csv.
+
+![alt text](image-1.png)

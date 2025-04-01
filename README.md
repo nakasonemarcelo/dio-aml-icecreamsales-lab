@@ -17,3 +17,13 @@ Foi criado o Automated ML de nome salmon_rabbit_h389ht3ndf conforme a figura
 Este job foi utilizado para progressão regressiva das informações de vendas e temperatura do dia na tabela vendas_sorvetes_ml.csv.
 
 ![alt text](image-1.png)
+
+Foi utilizado o Designer para se crira um pipeline estruturado de machine learning
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+Após treinar o modelo conseguimos alcançar o seguinte resultado
+
+![alt text](image-4.png)
